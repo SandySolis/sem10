@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\obj\Debug\sem10.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\obj\Debug\sem10.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\bin\Debug\sem10.exe.config
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\bin\Debug\sem10.exe
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\bin\Debug\sem10.pdb
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\obj\Debug\sem10.exe
+C:\Users\USUARIO\Desktop\sistemas\sem10\sem10\obj\Debug\sem10.pdb
